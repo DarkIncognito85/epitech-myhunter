@@ -1,0 +1,5 @@
+*.o
+my_hunter
+copy.txt
+.vscode/
+.idea/
